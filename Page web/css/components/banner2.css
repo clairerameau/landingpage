@@ -1,0 +1,12 @@
+.banner2{
+	background-image: url(../../images/footer.jpg);
+	color: white;
+	padding: 10px 50px 0px;
+	background-size: cover;
+	height: 190px;
+}
+
+.banner2 h4{
+	font-size: 50px;
+}
+
